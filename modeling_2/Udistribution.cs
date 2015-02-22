@@ -43,7 +43,7 @@ namespace modeling_2
         }
         public static double sigma(double[] realiz,double m)
         {
-            //СКО
+            //СКО СКО СКО
             return Math.Sqrt( D(realiz, m) );
         }
     };
