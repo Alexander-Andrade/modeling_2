@@ -38,7 +38,7 @@ namespace modeling_2
         }
         public static double D(double[] realiz, double m)
         {
-            double D = realiz.Sum(x => Math.Pow(x - m, 2));
+            double D = realiz.Sum(x => Math.Pow( x - m , 2));
             return D * ((double)1 / ((double)realiz.Length - (double)1));
         }
         public static double sigma(double[] realiz,double m)
