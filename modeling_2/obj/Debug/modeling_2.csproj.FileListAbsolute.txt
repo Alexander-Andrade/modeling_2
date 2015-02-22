@@ -1,0 +1,9 @@
+c:\users\home\documents\visual studio 2013\Projects\modeling_2\modeling_2\bin\Debug\modeling_2.exe.config
+c:\users\home\documents\visual studio 2013\Projects\modeling_2\modeling_2\bin\Debug\modeling_2.exe
+c:\users\home\documents\visual studio 2013\Projects\modeling_2\modeling_2\bin\Debug\modeling_2.pdb
+c:\users\home\documents\visual studio 2013\Projects\modeling_2\modeling_2\obj\Debug\modeling_2.Form1.resources
+c:\users\home\documents\visual studio 2013\Projects\modeling_2\modeling_2\obj\Debug\modeling_2.Properties.Resources.resources
+c:\users\home\documents\visual studio 2013\Projects\modeling_2\modeling_2\obj\Debug\modeling_2.csproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2013\Projects\modeling_2\modeling_2\obj\Debug\modeling_2.exe
+c:\users\home\documents\visual studio 2013\Projects\modeling_2\modeling_2\obj\Debug\modeling_2.pdb
+c:\users\home\documents\visual studio 2013\Projects\modeling_2\modeling_2\obj\Debug\modeling_2.csprojResolveAssemblyReference.cache
